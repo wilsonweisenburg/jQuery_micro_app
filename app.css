@@ -23,12 +23,12 @@ label {
     font-size: 15px;
 }
 
-#convert {
-    width: 100%;
+#convert_button {
+    width: 10%;
 }
 
-#clear {
-    width: 50%;
+#clear_unit {
+    width: 100%;
 }
 
 body {
